@@ -2,7 +2,6 @@ import pandas as pd
 from astropy.io import fits
 import os
 from google.colab import files
-
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.patches import Rectangle
