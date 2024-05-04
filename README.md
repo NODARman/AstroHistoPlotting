@@ -1,4 +1,4 @@
-With this code, you can plot graphs of the data you have. Created for stars, but you can use it for different uses.
+With this code, you can plot graphs of the data you have. Created for stars, but you might use it for another subject.
 
 1. Copy the code into Google Colab;
 2. Download "KIC stars and data";
